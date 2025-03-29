@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khushjain-02
-- 👀 I’m interested in ... Web Development, apart from thIs I am also intrested in Gaming,Travelling, Music 
-- 🌱 I’m currently learning ... IT Engineering from the Silver oak college of engineering & Technology.
+- 👀 I’m interested in ... Cyber Security, apart from this I am also interested in Gaming, Travelling, Music 
+- 🌱 I’m currently learning ... IT Engineering from the Silver Oak College of engineering & Technology.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
